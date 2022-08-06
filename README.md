@@ -1,7 +1,6 @@
 # Meower - a 😺 themed Twitter Alternative
 
 Meower is a 😸 cat-themed 😾, responsive Twitter Clone built for the modern web :)
-[pc-view.webm](https://user-images.githubusercontent.com/53611087/183252839-5094a60f-2372-4094-9e5a-3e4b23f22c93.webm)
 
 It uses 🪞 Vue.js and ⚡ Electron for the frontend and 🔥 Firebase for the backend.
 
