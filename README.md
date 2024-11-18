@@ -12,7 +12,6 @@ It uses 🪞 Vue.js and ⚡ Electron for the frontend and 🔥 Firebase for the 
 
 ## Installation
 
-## Installation
 1. Clone the repository locally.
 ```
 git clone https://github.com/abenav4/Twitching-Livestream-App.git
